@@ -1,6 +1,6 @@
 # COVID-19 pandemic and gender disparities in biomedical research
 
-Here you can find the code and the data for replicating the results from paper "COVID-19 amplifies gender disparities in research" by Goran Murić, Kristina Lerman and Emilio Ferrara
+Here you can find the code and the data for replicating the results from paper "COVID-19 pandemic and gender disparities in biomedical research" by Goran Murić, Kristina Lerman and Emilio Ferrara
 
 - **analysis_and_figures.ipynb** - All the necessary code to replicate the results 
 
