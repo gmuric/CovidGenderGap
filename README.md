@@ -1,8 +1,8 @@
-# COVID-19 amplifies gender disparities in research
+# COVID-19 pandemic and gender disparities in biomedical research
 
 Here you can find the code and the data for replicating the results from paper "COVID-19 amplifies gender disparities in research" by Goran Murić, Kristina Lerman and Emilio Ferrara
 
-- **plot_figures.ipynb** - All the necessary code to replicate the results 
+- **analysis_and_figures.ipynb** - All the necessary code to replicate the results 
 
 - **data/standardized_data.csv** - The data on papers and authors published on biorXiv, medrXiv and selected Springer-Nature journals in a standardized form, properly formated for the analysis
 
