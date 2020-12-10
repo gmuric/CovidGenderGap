@@ -1,6 +1,6 @@
-# COVID-19 pandemic and gender disparities in biomedical research
+# Gender disparity in the authorship of biomedical publications during COVID-19 pandemic
 
-Here you can find the code and the data for replicating the results from paper "COVID-19 pandemic and gender disparities in biomedical research" by Goran Murić, Kristina Lerman and Emilio Ferrara
+Here you can find the code and the data for replicating the results from paper "Gender disparity in the authorship of biomedical publications during COVID-19 pandemic" by Goran Murić, Kristina Lerman and Emilio Ferrara
 
 - **analysis_and_figures.ipynb** - All the necessary code to replicate the results 
 
